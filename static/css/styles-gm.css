@@ -1,0 +1,32 @@
+.menu-left-backcolor{
+   background: rgba(23,64,107,1);
+background: -moz-linear-gradient(left, rgba(23,64,107,1) 0%, rgba(146,151,176,1) 100%);
+background: -webkit-gradient(left top, right top, color-stop(0%, rgba(23,64,107,1)), color-stop(100%, rgba(146,151,176,1)));
+background: -webkit-linear-gradient(left, rgba(23,64,107,1) 0%, rgba(146,151,176,1) 100%);
+background: -o-linear-gradient(left, rgba(23,64,107,1) 0%, rgba(146,151,176,1) 100%);
+background: -ms-linear-gradient(left, rgba(23,64,107,1) 0%, rgba(146,151,176,1) 100%);
+background: linear-gradient(to right, rgba(23,64,107,1) 0%, rgba(146,151,176,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#414042', endColorstr='#95989a', GradientType=1 );
+
+}
+
+.menu-left-item{
+    color:white;
+}
+
+.menu-left-subitem{
+    color:white;
+    background: #414042;
+}
+
+a:active, a:hover, a:visited {
+    color: #17406B;
+}
+
+.header-font{
+    color:black;
+}
+
+table{
+    font-size: 8px;
+}
